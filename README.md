@@ -1,4 +1,4 @@
-# Matchstick-14-28-March-
+# Matchstick-14-28-March
 
 The goal of this project, based on a famous Matchstick game, is to create a program that you can play against.
 
