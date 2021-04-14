@@ -11,3 +11,5 @@ To launch the program, use "./matchstick l m"
 l = number of lines
 
 m = maximum number of matches that can be taken out each turn
+
+(Example: ./matchstick 5 5)
