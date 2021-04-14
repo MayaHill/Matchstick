@@ -5,9 +5,8 @@ The goal of this project, based on a famous Matchstick game, is to create a prog
 Every turn, each player can, on a same line, take one or several matchsticks.
 The one to remove the last matchstick loses.
 
-To compile the code, use the command "make" at the project's root.
 
-Then to launch the program: "./matchstick l m"
+To launch the program, use "./matchstick l m"
 
 l = number of lines
 
