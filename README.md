@@ -5,11 +5,28 @@ The goal of this project, based on a famous Matchstick game, is to create a prog
 Every turn, each player can, on a same line, take one or several matchsticks.
 The one to remove the last matchstick loses.
 
+<img src="https://i.postimg.cc/43B4TQSv/matchstick-gameplay.png" alt="alt text">
 
-To launch the program, use "./matchstick l m"
+### Linux Installer
 
-l = number of lines
+Clone the repository:
 
-m = maximum number of matches that can be taken out each turn
+    git clone https://github.com/MayaHill/Matchstick-14-28-March.git
 
-(Example: ./matchstick 5 5)
+To compile:
+
+    make
+
+Update:
+
+    git pull && make re
+
+## Launch the game
+
+    ./matchstick [l] [m]
+    
+    l = number of lines
+
+    m = maximum number of matches that can be taken out each turn
+    
+    (Example: ./matchstick 5 5)
