@@ -11,7 +11,7 @@ The one to remove the last matchstick loses.
 
 Clone the repository:
 
-    git clone https://github.com/MayaHill/Matchstick-14-28-March.git
+    git clone https://github.com/MayaHill/Matchstick.git
 
 To compile:
 
